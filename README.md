@@ -1,6 +1,6 @@
-# ResQ 🚨 – AI-Powered Disaster Detection & Response System
+# Disaster-Connect 🚨 – AI-Powered Disaster Detection & Response System
 
-**ResQ** is an end-to-end AI-powered system that detects floods and wildfires in real-time using satellite and drone imagery, and connects disaster victims to rescue teams through a user-friendly web application.
+**Disaster-Connect** is an end-to-end AI-powered system that detects floods and wildfires in real-time using satellite and drone imagery, and connects disaster victims to rescue teams through a user-friendly web application.
 
 Built with a mission to save lives by reducing response times, ResQ integrates **Machine Learning models** and **a Web App interface** — ensuring help reaches victims faster, smarter, and when it’s needed the most.
 
